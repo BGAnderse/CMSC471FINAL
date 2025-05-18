@@ -4,6 +4,7 @@ import * as topojson from "https://cdn.jsdelivr.net/npm/topojson-client@3/+esm";
 // =================== Variable Selector Logic ===================
 
 
+
 const variableOptions = {
   "Incident Count": "incident_count",
   "Offender Age": "offender_age",
@@ -336,8 +337,24 @@ function renderTooltip(d) {
 console.log("map.js is running!");
 
 // =================== Global Variables ===================
-const width = window.innerWidth * 0.85;
-const height = window.innerHeight * 0.85;
+// Responsive width/height for map SVG
+function getResponsiveWidth() {
+  return Math.min(window.innerWidth * 0.95, 1200);
+}
+function getResponsiveHeight() {
+  return Math.min(window.innerHeight * 0.7, 700);
+}
+let width = getResponsiveWidth();
+let height = getResponsiveHeight();
+window.addEventListener('resize', () => {
+  width = getResponsiveWidth();
+  height = getResponsiveHeight();
+  svg.attr("width", width).attr("height", height);
+  svg.attr("viewBox", [-500, 250, width, height]);
+  projection.scale(width * 0.8).translate([width / 2, height / 2]);
+  updateSpikePositions();
+});
+
 let selectedState = null;
 let currentMonthNum = 1; // Default to January
 let currentYear = 2013; // Default starting year
@@ -455,7 +472,7 @@ function updateSingleSpike(spike, data) {
   const height = incidentScale(data.incident_count || 1);
   const yShifted = y-height;
   const xShifted = x;
-  const spikeWidth = 12;
+  const spikeWidth = Math.max(6, width * 0.008); // Responsive spike width
   
   spike.attr("d", 
     `M${xShifted},${yShifted} L${xShifted - spikeWidth},${yShifted + height} L${xShifted + spikeWidth},${yShifted + height} Z`
