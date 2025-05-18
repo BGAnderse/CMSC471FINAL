@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="icon" type="image/png" href="your-favicon.png" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Homicide USA</title>
+  <link rel="icon" href="data:," />
+  <style>
+   
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: url('data/istockphoto-1216027095-612x612.jpg') ;
+      background-size: 20% 20%;
+      font-family: 'Segoe UI', Arial, sans-serif;
+    }
+
+    h1 {
+      text-align: center;
+      margin: 48px 0 36px 0;
+      font-size: 76.8px;
+      font-weight: 800;
+      letter-spacing: 2.4px;
+      color: #6b0000;
+      text-shadow: 2.4px 4.8px 19.2px rgba(107,0,0,0.08);
+    }
+
+    #timeSelector {
+      text-align: center;
+      margin-bottom: 36px;
+      font-size: 33.6px;
+      background: #fff;
+      border-radius: 14.4px;
+      box-shadow: 0 4.8px 28.8px rgba(107,0,0,0.07);
+      width: 72vw;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 28.8px 0 19.2px 0;
+    }
+
+    .tooltip {
+      position: absolute;
+      padding: 21.6px 28.8px;
+      background: rgba(44, 44, 44, 0.95);
+      color: #fff;
+      min-height: 144px;
+      min-width: 384px;
+      border-radius: 12px;
+      pointer-events: none;
+      font-size: 33.6px;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      opacity: 0;
+      transition: opacity 0.2s;
+      z-index: 10;
+      box-shadow: 0 4.8px 28.8px rgba(0,0,0,0.15);
+    }
+
+    #timeSlider {
+      width: 96%;
+      margin: 36px auto 12px auto;
+      height: 19.2px;
+      appearance: none;
+      border-radius: 9.6px;
+      background: linear-gradient(to right, #6b0000 0%, #e57373 100%);
+      outline: none;
+      box-shadow: 0 2.4px 9.6px rgba(107,0,0,0.10);
+    }
+
+    #timeSlider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 38.4px;
+      height: 38.4px;
+      background: #fff;
+      border: 4.8px solid #6b0000;
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 2.4px 9.6px rgba(107,0,0,0.15);
+      transition: border-color 0.2s;
+    }
+    #timeSlider::-webkit-slider-thumb:hover {
+      border-color: #388e3c;
+    }
+    #timeSlider::-moz-range-thumb {
+      width: 38.4px;
+      height: 38.4px;
+      background: #fff;
+      border: 4.8px solid #6b0000;
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 2.4px 9.6px rgba(107,0,0,0.15);
+      transition: border-color 0.2s;
+    }
+    #timeSlider::-moz-range-thumb:hover {
+      border-color: #388e3c;
+    }
+
+    #buttonContainer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 21.6px;
+      margin-bottom: 12px;
+    }
+
+    /* Play Button */
+    #playButton {
+      width: 0;
+      height: 0;
+      border-top: 33.6px solid transparent;
+      border-bottom: 33.6px solid transparent;
+      border-left: 57.6px solid #388e3c;
+      background: none;
+      cursor: pointer;
+      border-radius: 7.2px;
+      transition: transform 0.2s, border-color 0.2s;
+      margin-top: 0;
+    }
+    #playButton:hover {
+      transform: scale(1.12);
+      border-left-color: #256029;
+    }
+
+    /* Pause Button */
+    #pauseButton {
+      width: 57.6px;
+      height: 57.6px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0;
+      transition: transform 0.2s;
+      position: relative;
+    }
+    #pauseButton::before, #pauseButton::after {
+      content: "";
+      display: block;
+      width: 14.4px;
+      height: 57.6px;
+      background-color: #b71c1c;
+      border-radius: 3.6px;
+    }
+    #pauseButton::after {
+      margin-left: 19.2px;
+    }
+    #pauseButton:hover {
+      transform: scale(1.12);
+      background-color: #f5f5f5;
+    }
+
+    /* Reset Button */
+    #resetButton {
+      font-size: 26.4px;
+      padding: 9.6px 0;
+      margin: 0 0 0 21.6px;
+      height: 57.6px;
+      width: 132px;
+      cursor: pointer;
+      background: linear-gradient(90deg, #b5b3b3 0%, #e0e0e0 100%);
+      border: none;
+      border-radius: 9.6px;
+      transition: background 0.2s;
+      font-weight: 600;
+      color: #333;
+      box-shadow: 0 2.4px 9.6px rgba(107,0,0,0.07);
+    }
+    #resetButton:hover {
+      background: linear-gradient(90deg, #ccc 0%, #e0e0e0 100%);
+    }
+
+    /* Sidebar */
+    #sidebarLeft {
+      position: fixed;
+      top: 50%;
+      left: 72px;
+      width: 504px;
+      height: 504px;
+      padding: 33.6px 21.6px;
+      font-size: 40.6px;
+      text-align: center;
+      background: #fff;
+      border-radius: 21.6px;
+      box-shadow: 0 4.8px 28.8px rgba(107,0,0,0.10);
+      transform: translateY(-50%);
+      z-index: 50;
+      border: 1.8px solid #e57373;
+    }
+    #sidebarLeft h2 {
+      text-align: center;
+      font-size: 38.4px;
+      font-weight: 700;
+      color: #6b0000;
+      margin-bottom: 21.6px;
+      letter-spacing: 1.2px;
+    }
+    #sidebarLeft form {
+      text-align: left;
+      font-size: 45.2px;
+      margin: 0;
+      padding: 0;
+    }
+    input[type="radio"] {
+      transform: scale(1.56);
+      margin-right: 14.4px;
+      accent-color: #6b0000;
+    }
+
+    #sidebarRight {
+      position: fixed;
+      top: 50%;
+      right: 72px;
+      width: 648px;
+      max-height: 108vh;
+      overflow-y: auto;
+      padding: 38.4px 33.6px;
+      font-size: 26.4px;
+      background: #fff;
+      border-radius: 21.6px;
+      box-shadow: 0 4.8px 28.8px rgba(107,0,0,0.10);
+      transform: translateY(-50%);
+      opacity: 1;
+      z-index: 50;
+      border: 1.8px solid #e57373;
+    }
+    #sidebarRight p {
+      
+      margin: 0 0 12px 0;
+      line-height: 1.6;
+      font-size: 38.8px;
+      color: #000000;
+      opacity: 0.8;
+    }
+    #sidebarRight h2 {
+      text-align: center;
+      font-size: 50px;
+      font-weight: 700;
+      color: #6b0000;
+      margin-bottom: 21.6px;
+      letter-spacing: 1.2px;
+    }
+
+    #escHelp {
+      text-align: center;
+      font-size: 28.8px;
+      color: #6b0000;
+      opacity: 0;
+      margin-top: 12px;
+      font-style: italic;
+    }
+
+    #legendContainer {
+      position: fixed;
+      right: 72px;
+      left: 48px;
+      bottom: 500px;
+      transform: none;
+      background: #fff;
+      padding: 21.6px 38.4px;
+      border-radius: 16.8px;
+      box-shadow: 0 4.8px 28.8px rgba(107,0,0,0.10);
+      width: 648px;
+      border: 1.8px solid #e57373;
+      z-index: 100;
+    }
+    
+    
+    #legendContainer h2 {
+      text-align: center;
+      margin-top: 0;
+      font-size: 38.4px;
+      color: #6b0000;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+    }
+    #legendContent {
+      display: flex;
+      flex-direction: column;
+      gap: 9.6px;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 7.2px;
+    }
+    .legend-color {
+      width: 28.8px;
+      height: 28.8px;
+      margin-right: 16.8px;
+      border: 1.8px solid #bdbdbd;
+      border-radius: 4.8px;
+    }
+  </style>
+</head>
+<body>
+  <div id="sidebarRight">
+    <h2>About This Visualization</h2>
+    <p> This data visualization uses data from FBI’s Uniform Crime Reporting (UCR) Program’s Homicide Data, particularly the Supplementary Homicide Reports (SHR) from 2013-2016. This dataset contains detailed incident-level records on homicides reported across the United States, including information on the location (state and county), weapon used, circumstances, and demographic details of both victims and offenders. The data visualization aims to explore and visualize the geographic distribution of homicide rates across the United States at both the state and county levels. The interactive map below uses spikes to visualize the amount of homicides in certain states compared to others. Different states can then be clicked on and the spikes can be seen at county level. The visualization uses a slider to view crime data in different months and different years. There is also a filter that allows the user to look at crime data based on offender age, offender race, offender sex and total count of crimes. </p>
+  </div>
+  <h1>Invisible Borders: How Geography Shapes Homicide in the United States</h1>
+
+  <div id="timeSelector">
+    <!-- Play Button -->
+   
+    <div id="buttonContainer"> <button id="playButton"></button><button id="pauseButton"></button></div>
+    
+
+    <!-- Pause Button -->
+    
+
+    <!-- Time Slider -->
+    <input type="range" id="timeSlider" min="0" max="47" step="1" value="0" />
+    
+    <!-- Reset Button -->
+    <button id="resetButton">Reset</button>
+    
+    <!-- Display Selected Time -->
+    <p id="selectedTime">January 2013</p>
+    <p id="escHelp">Press ESC to zoom out</p>
+  </div>
+  <script>
+    window.onload = function() {
+      document.querySelector('input[type="radio"][value="Incident Count"]').checked = true;
+    };
+  </script>
+  
+  <!-- Sidebar with Variables -->
+  <div id="sidebarLeft">
+    <h2>Variables to Track</h2>
+    <form id="variableSelector">
+      <label><input type="radio" name="variable" value="Incident Count" /> Incident Count</label><br>
+      <label><input type="radio" name="variable" value="Offender Age" /> Offender Age</label><br>
+      <label><input type="radio" name="variable" value="Offender Sex" /> Offender Sex</label><br>
+      <label><input type="radio" name="variable" value="Offender Race" /> Offender Race</label><br>
+    </form>
+  </div>
+  <div id="legendContainer">
+  <h2 style="text-align: center; margin-top: 0; font-size: 50px;">Legend</h2>
+  <div id="legendContent"></div>
+  
+</div>
+ 
+  <!-- Include the JS for map rendering -->
+  <script type="module" src="js/map.js"></script>
+  
+</body>
+
+</html>

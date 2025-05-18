@@ -1,0 +1,49 @@
+File Manifest for ICPSR 36790
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Supplementary Homicide Reports, 2015.
+ICPSR36790-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2017-05-04.
+http://doi.org/10.3886/ICPSR36790.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36790-descriptioncitation.pdf       -       -         -       2017-06-27  -
+
+    36790-related_literature.txt        -       -         -       daily       -
+
+    36790-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Supplementary Homicide
+Reports, 2015
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36790-0001-Codebook.pdf             -       -         -       2017-05-04  08359b77320197c7834b174544d9caea
+
+    36790-0001-Data.dta                 -       13,844    152     2017-05-04  92f24fd7bbec8389c54155a4d4dcf56c
+
+    36790-0001-Data.rda                 -       13,844    152     2017-05-04  3a2eea2e6cc00eb70847c13043418b61
+
+    36790-0001-Data.sav                 -       13,844    152     2017-05-04  bd0f9d9ed8ca5e77bae288ccd2ea5297
+
+    36790-0001-Data.stc                 -       13,844    152     2017-05-04  29013f46ee9895698b2573c9eddb989f
+
+    36790-0001-Data.tsv                 -       13,844    152     2017-05-04  6539babdadcd327cf3abc613b0365f8b
+
+    36790-0001-Data.txt                 270     13,844    152     2017-05-04  352365b7d3994a7ee68aa79f8fecc481
+
+    36790-0001-Setup.dct                -       -         -       2017-05-04  2883dd4a2c7ed9ae2ae93b7e102ad072
+
+    36790-0001-Setup.do                 -       -         -       2017-05-04  ca18e545d44120f2f76923f9d1019b1d
+
+    36790-0001-Setup.sas                -       -         -       2017-05-04  a4bb3d5f4af1d6920e22193dc7e8a034
+
+    36790-0001-Setup.sps                -       -         -       2017-05-04  de816449e84009ae403b0f769826920f
+

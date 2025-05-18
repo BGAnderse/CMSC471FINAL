@@ -1,0 +1,656 @@
+Bibliography
+Uniform Crime Reporting Program Data: Supplementary Homicide Reports, 2014
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36393. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Abel, Meagan N., "News Coverage of Mass-Murder in the United States:
+2004-2018." Dissertation, Michigan State University, 2023.
+
+2. Amuedo-Dorantes, Catalina; Deza, Monica, "Can Sanctuary Polices Reduce
+Domestic Violence?." IZA DP No. 12868. Bonn, Germany: Institute for Labor
+Economics, Dec 2019. DOI: 10.2139/ssrn.3521685
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3521685
+
+3. Avdija, Avdi S.; Gallagher, Christian; Woods, DeVere D., "Homicide
+clearance rates in the United States, 1976-2017: Examining homicide
+clearance rates relative to the situational circumstances in which they
+occur." Violence and Victims. 2022, 37, (1), 101 - 115. DOI: 10.1891/VV-D-
+20-00134
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3521685
+
+4. Beck, Charlie; Uchida, Craig D., "The accuracy of fatal officer-involved
+shooting data: A response to 'The limitations of government databases for
+analyzing fatal officer-involved shootings in the United States'." Criminal
+Justice Policy Review. Apr 2019, 30, (3), 359 - 373. DOI:
+10.1177/0887403417718339
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3521685
+
+5. Berg, Mark T., "Trends in the lethality of American violence." Homicide
+Studies. Aug 2019, 23, (3), 262 - 284. DOI: 10.1177/1088767919849643
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3521685
+
+6. Boyle, Kaitlin M.; Jones, P'trice; Mancik, Ashley M., "Racialized
+backlash: A state-level analysis of Black women's homicide victimization by
+Black men, White men, and police." Crime and Delinquency. 2022,. DOI:
+10.1177/00111287221134922
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3521685
+
+7. Bridges, Tristan; Tober, Tara L.; Brazzell, Melanie, "Database
+discrepancies in understanding the burden of mass shootings in the United
+States, 2013-2020." Lancet Regional Health. Americas. Jun 2023, 22,. DOI:
+10.1016/j.lana.2023.100504
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3521685
+
+8. Bruhn, Jesse, "Crime and Public Housing: A General Equilibrium
+Analysis." SSRN, Jan 2, 2018.. DOI: 10.2139/ssrn.3064909
+Abstract: https://ssrn.com/abstract=3064909
+
+9. Bureau of Justice Statistics, "Selected Findings from the FBI's Uniform
+Crime Reporting Program." Selected Findings. NCJ 254862, Washington, DC:
+Bureau of Justice Statistics, Jul 2020.
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+10. Campedelli, Gian M., "Explaining machine learning for predicting
+homicide clearance in the United States." Journal of Criminal Justice. Mar-
+Apr 2022, 79,. DOI: 10.1016/j.jcrimjus.2022.101898
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+11. Campedelli, Gian M., "Homicides involving Black victims are less likely
+to be cleared in the United States." Criminology. in press 2024,. DOI:
+10.1111/1745-9125.12362
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+12. Chin, Yoo-Mi; Cunningham, Scott, "Revisiting the effect of warrantless
+domestic violence arrest laws on intimate partner homicides." Journal of
+Public Economics. Nov 2019, 179,. DOI: 10.1016/j.jpubeco.2019.104072
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+13. Collett, Kevin D., "Relationship Between Homicide Hot Spots, Victim
+Characteristics, and Economic Disadvantage in a Large Urban City in
+Colorado." Thesis, University of Colorado, 2018.
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+14. Collingwood, Loren; El-Khatib, Stephen O.; O'Brien, Benjamin G.,
+"Sustained Organizational Influence: American Legislative Exchange Council
+and the Diffusion of Anti-Sanctuary Policy." Nov 13, 2017..
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+15. Currie, Morgan; Paris, Britt S.; Pasquetto, Irene; Pierre, Jennifer,
+"The conundrum of police officer-involved homicides: Counter-data in Los
+Angeles County." Big Data and Society. Jul-Dec 2016,. DOI:
+10.1177/2053951716663566
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+16. Delgado, Rosario; Sanchez-Delgado, Hector, "Multi-instance learning
+with application to the profiling of multi-victim homicides." Expert
+Systems with Applications. Mar 1, 2024, 237B,. DOI:
+10.1016/j.eswa.2023.121593
+Full text PDF: http://www.bjs.gov/content/pub/pdf/sffucrp.pdf
+
+17. Diez, Carolina; Kurland, Rachel P.; Rothman, Emily F.; Bair-Merritt,
+Megan; Fleegler, Eric; Xuan, Ziming; Galea, Sandro; Ross, Craig S.;
+Kalesan, Bindu; Goss, Kristin A.; Siegel, Michael, "State intimate partner
+violence-related firearm laws and intimate partner homicide rates in the
+United States, 1991 to 2015." Annals of Internal Medicine. Oct 17, 2017,
+167, (8), 536 - 543. DOI: 10.7326/M16-2849
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28975202
+
+18. Donohue, John J.; Oktay, Alex; Zhang, Amy L.; Benavides, Matthew, "Does
+Defensive Gun Use Deter Crime?." NBER Working Paper 32108. Cambridge, MA:
+National Bureau of Economic Research, Feb 2024.
+Abstract: http://www.nber.org/papers/w32108
+Full text PDF: https://www.nber.org/system/files/working_papers/w32108/w32108.pdf
+
+19. Drury, Zackary J., "Biting the bullet: Fixing America's quiet epidemic
+of gun suicide." ANU Undergraduate Research Journal. 2016, 8, 63 - 81. DOI:
+10.22459/AURJ.08.2016
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+20. Durrance, Christine; Wang, Yang; Wolfe, Barbara, "Do mandatory waiting
+periods for abortion increase intimate partner violence?." Journal of
+Health Economics. in press 2024,. DOI: 10.1016/j.jhealeco.2024.102939
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+21. Duwe, Grant, "Patterns and prevalence of lethal mass violence."
+Criminology and Public Policy. Feb 2020, 19, (1), 17 - 35. DOI:
+10.1111/1745-9133.12478
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+22. Duwe, Grant; Sanders, Nathan E.; Rocque, Michael; Fox, James A.,
+"Forecasting the severity of mass public shootings in the United States."
+Journal of Quantitative Criminology. 2022, 38, 385 - 423. DOI:
+10.1007/s10940-021-09499-5
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+23. El-Khatib, Stephen; Collingwood, Loren, "State Policy Responses to
+Sanctuary Cities: Explaining
+the Rise of Sanctuary City Legislative Proposals." Oct 9, 2017..
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+24. Emigh-Guy, Meredith, "Is Stranger-Perpetrated Homicide Responsible for
+the Decrease in Solved Cases? An Analysis of the Characteristics of
+Homicide from 1980-2015." Dissertation, University of New Haven, 2019.
+Full text PDF: http://press-files.anu.edu.au/downloads/press/n2558/pdf/article06.pdf
+
+25. Evans, William N.; Garthwaite, Craig; Moore, Timothy J., "Guns and
+Violence: The Enduring Impact of Crack Cocaine Markets on Young Black
+Males." NBER Working Paper 24819. Cambridge, MA: National Bureau of
+Economic Research, Jul 2018. DOI: 10.3386/w24819
+Abstract: http://www.nber.org/papers/w24819
+Full text PDF: http://www.nber.org/papers/w24819.pdf
+
+26. Fagan, Jeffrey; Geller, Amanda, "Police, race, and the production of
+capital homicides." Berkeley Journal of Criminal Law. 2018, 23, (3), 261 -
+313. DOI: 10.15779/Z382R3NX4X
+Abstract: http://www.nber.org/papers/w24819
+Full text PDF: http://www.nber.org/papers/w24819.pdf
+
+27. Finholt, Ben; Garrett, Brandon L.; Modjadidi, Karima; Renberg, Kristen
+M., "Juvenile life without parole in North Carolina." Journal of Criminal
+Law and Criminology. Spr 2020, 110, (2), 141 - 179.
+Abstract: https://scholarlycommons.law.northwestern.edu/jclc/vol110/iss2/2
+
+28. Formica, Margaret K.; Rajan, Sonali; Simons, Nicholas, "Healthcare
+indicators and firearm homicide: An ecologic study." Journal of Aggression,
+Conflict and Peace Research. 2019, 11, (2), 88 - 99. DOI: 10.1108/JACPR-10-
+2018-0385
+Abstract: https://scholarlycommons.law.northwestern.edu/jclc/vol110/iss2/2
+
+29. Fox, Kathleen A.; Stanek, Kayleigh A.; Harvey, Cassie L.; Sharp,
+Christopher; Imus-Nahsonhoya, Valaura, "Understanding the scope of missing
+and murdered indigenous peoples: A longitudinal examination of the
+understudied population of indigenous males in Arizona." Homicide Studies.
+In press 2023,. DOI: 10.1177/10887679231201602
+Abstract: https://scholarlycommons.law.northwestern.edu/jclc/vol110/iss2/2
+
+30. Freilich, Joshua D.; Chermak, Steven M.; Klein, Brent R.,
+"Investigating Root Causes of School Violence: A Case-Control Study of
+School Violence Offenders, Non-School Youth Violence Offenders, and Non-
+Offending Youths." NCJ 308550, Jan 2024. 2016-CX-BX-0013; 2018-R2-CX-0002;
+2020-CK-BX-0003
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigating-root-causes-school-violence-case-control-study-school
+Full text PDF: https://www.ojp.gov/pdffiles1/nij/grants/308550.pdf
+This project investigated the root causes of school shootings using a case-
+control methodology to identify factors that distinguish school shooters.
+This study addressed these gaps in understanding of risk factors for school
+shooters by using data from a systematically collected open-source database
+that includes all known adolescent school shooters who injured at least one
+person on school grounds in the U.S. between 1990 and 2020. The authors
+enhanced these data to include two vital comparison groups: adolescents
+committing shootings in the community outside school grounds as well as
+non-offending students. The researchers also incorporated data from the
+FBI's Supplementary Homicide Reports (SHR), part of the Uniform Crime
+Reporting (UCR) program, covering the period from 1990 to 2019, the latest
+available dataset for additional comparisons. The study employed a case-
+control research design to provide a deeper understanding of how school
+shooter offenders compare to the two comparison groups. The researchers
+captured offender-level constructs from leading criminology theories.
+
+31. Fridel, Emma E., "A multivariate comparison of family, felony, and
+public mass murders in the United States." Journal of Interpersonal
+Violence. Feb 2021, 36, (3-4), 1092 - 1118. DOI: 10.1177/0886260517739286
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigating-root-causes-school-violence-case-control-study-school
+Full text PDF: https://www.ojp.gov/pdffiles1/nij/grants/308550.pdf
+This project investigated the root causes of school shootings using a case-
+control methodology to identify factors that distinguish school shooters.
+This study addressed these gaps in understanding of risk factors for school
+shooters by using data from a systematically collected open-source database
+that includes all known adolescent school shooters who injured at least one
+person on school grounds in the U.S. between 1990 and 2020. The authors
+enhanced these data to include two vital comparison groups: adolescents
+committing shootings in the community outside school grounds as well as
+non-offending students. The researchers also incorporated data from the
+FBI's Supplementary Homicide Reports (SHR), part of the Uniform Crime
+Reporting (UCR) program, covering the period from 1990 to 2019, the latest
+available dataset for additional comparisons. The study employed a case-
+control research design to provide a deeper understanding of how school
+shooter offenders compare to the two comparison groups. The researchers
+captured offender-level constructs from leading criminology theories.
+
+32. Fridel, Emma E., "Moving beyond individual-level explanations:
+Exploring the contextual correlates of mass murder." Criminal Justice and
+Behavior. in press 2022,. DOI: 10.1177/00938548221078580
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigating-root-causes-school-violence-case-control-study-school
+Full text PDF: https://www.ojp.gov/pdffiles1/nij/grants/308550.pdf
+This project investigated the root causes of school shootings using a case-
+control methodology to identify factors that distinguish school shooters.
+This study addressed these gaps in understanding of risk factors for school
+shooters by using data from a systematically collected open-source database
+that includes all known adolescent school shooters who injured at least one
+person on school grounds in the U.S. between 1990 and 2020. The authors
+enhanced these data to include two vital comparison groups: adolescents
+committing shootings in the community outside school grounds as well as
+non-offending students. The researchers also incorporated data from the
+FBI's Supplementary Homicide Reports (SHR), part of the Uniform Crime
+Reporting (UCR) program, covering the period from 1990 to 2019, the latest
+available dataset for additional comparisons. The study employed a case-
+control research design to provide a deeper understanding of how school
+shooter offenders compare to the two comparison groups. The researchers
+captured offender-level constructs from leading criminology theories.
+
+33. Fridel, Emma E.; Fox, James A., "Gender differences in patterns and
+trends in U.S. homicides, 1976-2017." Violence and Gender. Mar 2019, 6,
+(1), 27 - 36. DOI: 10.1089/vio.2019.0005
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigating-root-causes-school-violence-case-control-study-school
+Full text PDF: https://www.ojp.gov/pdffiles1/nij/grants/308550.pdf
+This project investigated the root causes of school shootings using a case-
+control methodology to identify factors that distinguish school shooters.
+This study addressed these gaps in understanding of risk factors for school
+shooters by using data from a systematically collected open-source database
+that includes all known adolescent school shooters who injured at least one
+person on school grounds in the U.S. between 1990 and 2020. The authors
+enhanced these data to include two vital comparison groups: adolescents
+committing shootings in the community outside school grounds as well as
+non-offending students. The researchers also incorporated data from the
+FBI's Supplementary Homicide Reports (SHR), part of the Uniform Crime
+Reporting (UCR) program, covering the period from 1990 to 2019, the latest
+available dataset for additional comparisons. The study employed a case-
+control research design to provide a deeper understanding of how school
+shooter offenders compare to the two comparison groups. The researchers
+captured offender-level constructs from leading criminology theories.
+
+34. Fridel, Emma E.; Sheppard, Keller G.; Zimmerman, Gregory M.,
+"Integrating the literature on police use of deadly force and police lethal
+victimization: How does place impact fatal police-citizen encounters?."
+Journal of Quantitative Criminology. in press 2019,. DOI: 10.1007/s10940-
+019-09438-5
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigating-root-causes-school-violence-case-control-study-school
+Full text PDF: https://www.ojp.gov/pdffiles1/nij/grants/308550.pdf
+This project investigated the root causes of school shootings using a case-
+control methodology to identify factors that distinguish school shooters.
+This study addressed these gaps in understanding of risk factors for school
+shooters by using data from a systematically collected open-source database
+that includes all known adolescent school shooters who injured at least one
+person on school grounds in the U.S. between 1990 and 2020. The authors
+enhanced these data to include two vital comparison groups: adolescents
+committing shootings in the community outside school grounds as well as
+non-offending students. The researchers also incorporated data from the
+FBI's Supplementary Homicide Reports (SHR), part of the Uniform Crime
+Reporting (UCR) program, covering the period from 1990 to 2019, the latest
+available dataset for additional comparisons. The study employed a case-
+control research design to provide a deeper understanding of how school
+shooter offenders compare to the two comparison groups. The researchers
+captured offender-level constructs from leading criminology theories.
+
+35. Garner, Joel H.; Hickman, Matthew J.; Malega, Ronald W.; Maxwell,
+Christopher D., "Progress toward national estimates of police use of
+force." PLOS One. Feb 2018, 13, (2),. DOI: 10.1371/journal.pone.0192932
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29447295
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5813980/
+
+36. Goh, Li Sian, "Going local: Do consent decrees and other forms of
+federal intervention in municipal police departments reduce police
+killings?." Justice Quarterly. in press 2020,. DOI:
+10.1080/07418825.2020.1733637
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29447295
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5813980/
+
+37. Goncalves, Felipe, "Do Police Unions Increase Misconduct?." Mar 2021..
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/603eeed4954ee906cac9ca0f/1614737109776/Goncalves_Unions.pdf
+
+38. Gray, Andrew C.; Parker, Karen F., "Race, structural predictors, and
+police shootings: Are there differences across official and 'unofficial'
+accounts of lethal force?." Crime and Delinquency. Jan 2019, 65, (1), 26 -
+45. DOI: 10.1177/0011128718788044
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/603eeed4954ee906cac9ca0f/1614737109776/Goncalves_Unions.pdf
+
+39. Hargrove, Thomas K., "Boycotting the Uniform Crime Report:
+Organizational theory analysis of the causes and consequences of
+cooperative failures by police for federal crime reporting." In Rudes,
+D.S.; Ingram, J.R., Using Organizational Theory to Study, Explain, and
+Understand Criminal Legal Organizations. 217 - 234, Cham, Switzerland:
+Springer Nature,2024. DOI: 10.1007/978-3-031-66285-0_13
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/603eeed4954ee906cac9ca0f/1614737109776/Goncalves_Unions.pdf
+
+40. Harms, Joshua; Bush, Madison, "A comparative analysis of knife and
+firearm homicides in the United States." Journal of Interpersonal Violence.
+Oct 2022, 37, (19-20),. DOI: 10.1177/08862605211029620
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/603eeed4954ee906cac9ca0f/1614737109776/Goncalves_Unions.pdf
+
+41. Holmgren, Roland, "Oakland Police Department and Intelligence-Led
+Policing." 2021..
+Full text PDF: https://www.rohlmgrn.net/uploads/1/2/7/2/127291782/opd_and_intel_led_policing.pdf
+
+42. Huang, Dih-Dih; Manley, Nathan R.; Lewis, Richard H.; Fischer, Peter
+E.; Lenart, Emily K.; Croce, Martin A.; Magnotti, Louis J., "The sustained
+effect of a temporary measure: Urban firearm mortality following expiration
+of the Federal Assault Weapons Ban." American Journal of Surgery. in press
+2022,. DOI: 10.1016/j.amjsurg.2022.03.027
+Full text PDF: https://www.rohlmgrn.net/uploads/1/2/7/2/127291782/opd_and_intel_led_policing.pdf
+
+43. Hunt, Priscillia; Parast, Layla; Weinberger, Gabriel, "Can an
+Informative Letter Reduce Gun Crime and be Cost-Effective?." A Study of Los
+Angeles. Santa Monica, CA: RAND Corporation, 2017. DOI: 10.7249/RR1934
+Abstract: https://www.rand.org/pubs/research_reports/RR1934.html
+Full text PDF: https://www.rand.org/content/dam/rand/pubs/research_reports/RR1900/RR1934/RAND_RR1934.pdf
+
+44. Kamada, Takuma, "The Emergence of the Crack Epidemic and City-to-Suburb
+Mobility Between and Within Ethno-Racial Groups." SocArXiv, Feb 12, 2020..
+DOI: 10.31219/osf.io/wkxqv
+Abstract: https://ideas.repec.org/p/osf/socarx/wkxqv.html
+
+45. Kena, Grace; Truman, Jennifer L., "Trends and Patterns in Firearm
+Violence, 1993-2018." Special Report. NCJ 251663, Washington, DC: Bureau of
+Justice Statistics, Apr 2022.
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/tpfv9318.pdf
+
+46. Kiley, Mallory, "Dropout or Delinquent: An Ecological Analysis of High
+School Attrition Rates in Correlation to Criminal Behavior." Thesis, Union
+College, 2018.
+Abstract: https://digitalworks.union.edu/theses/1698
+
+47. Kim, Taeho, "Essays in Personnel Economics of Policing." Dissertation,
+University of Chicago, 2021.
+Full text PDF: https://knowledge.uchicago.edu/record/2967/files/Kim_uchicago_0330D_15707.pdf
+
+48. Kivisto, Aaron J.; Magee, Lauren A.; Phalen, Peter L.; Ray, Bradley R.,
+"Firearm ownership and domestic versus nondomestic homicide in the U.S.."
+American Journal of Preventive Medicine. in press 2019,. DOI:
+10.1016/j.amepre.2019.04.009
+Full text PDF: https://knowledge.uchicago.edu/record/2967/files/Kim_uchicago_0330D_15707.pdf
+
+49. Kivisto, Aaron J.; Porter, Megan, "Firearm use increases risk of
+multiple victims in domestic homicides." Journal of the American Academy of
+Psychiatry and the Law. Mar 2020, 48, (1),. DOI: 10.29158/JAAPL.003888-20
+Full text PDF: https://knowledge.uchicago.edu/record/2967/files/Kim_uchicago_0330D_15707.pdf
+
+50. Kroeger, Sarah; La Mattina, Giulia, "Nuisance Ordinances and Domestic
+Violence." IZA DP No. 17565. Bonn, Germany: Institute of Labor Economics,
+Dec 2024.
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+51. Lanfear, Charles C.; Kirk, David S.; Sampson, Robert J., "Dual pathways
+of concealed gun carrying and use from adolescence to adulthood over a 25-
+year era of change." Science Advances. Dec 2024, 10, (49),. DOI:
+10.1126/sciadv.adp8915
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+52. Lauritsen, Janet L.; Lentz, Theodore S., "National and local trends in
+serious violence, firearm victimization, and homicide." Homicide Studies.
+Aug 2019, 23, (3), 243 - 261. DOI: 10.1177/1088767919848665
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+53. Levy, Marc; Alvarez, Wilmer; Vagelakos, Lauren; Yore, Michelle;
+Khallouq, Bertha B., "Stand your ground: Policy and trends in firearm-
+related justifiable homicide and homicide in the US." Journal of the
+American College of Surgeons. Jan 2020, 230, (1), 161 - 167. DOI:
+10.1016/j.jamcollsurg.2019.11.003
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+54. Lu, Yunmei; Luo, Liying; Santos, Mateus R., "Social change and race-
+specific homicide trajectories: An age-period-cohort analysis." Journal of
+Research in Crime and Delinquency. in press 2022,. DOI:
+10.1177/00224278221129886
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+55. Maier, Shana L.; Mannes, Suzanne; Koppenhofer, Emily L., "The
+implications of marijuana decriminalization and legalization on crime in
+the United States." Contemporary Drug Problems. Jun 2017, 44, (2), 125 -
+146. DOI: 10.1177/0091450917708790
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+56. Mancik, Ashley M.; Parker, Karen F., "Homicide clearances during pre-
+and post-U.S. crime drop eras: The role of structural predictors and
+demographic shifts, 1976-2015." Journal of Crime and Justice. 2019, 42,
+(3), 237 - 256. DOI: 10.1080/0735648X.2018.1526101
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+57. Manley, Nathan R.; Fischer, Peter E.; Sharpe, John P.; Stranch, Ethan
+W.; Fabian, Timothy C.; Croce, Martin A.; Magnotti, Louis J., "Separating
+truth from alternative facts: 37 years of guns, murder, and violence across
+the US." Journal of the American College of Surgeons. in press 2020,. DOI:
+10.1016/j.jamcollsurg.2019.12.040
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+58. Mayes, Lauren, "Law Enforcement in the Age of Social Media: Examining
+the Organizational Image Construction of Police on Twitter and Facebook."
+Dissertation, Temple University, 2017.
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+59. McCool, Weston C.; Codding, Brian F., "US homicide rates increase when
+resources are scarce and unequally distributed." Evolutionary Human
+Sciences. 2024, 6, (e3),. DOI: 10.1017/ehs.2023.31
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+60. McNichols, Drew T., "Essays in Labor Economics." Dissertation,
+University of Oregon, 2019.
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+61. Mills, Samantha J.; Kivisto, Aaron J., "Firearm availability and
+parricide." Journal of Family Violence. in press 2022,. DOI:
+10.1007/s10896-022-00361-1
+Full text PDF: https://docs.iza.org/dp17565.pdf
+
+62. Musu-Gillette, Lauren; Oudekerk, Barbara A.; Zhang, Anlan; Wang, Ke;
+Zhang, Jizhi, "Indicators of School Crime and Safety: 2016." NCJ 250650,
+Washington, DC: United States Department of Education, National Center for
+Education Statistics; United States Department of Justice, Bureau of
+Justice Statistics, May 2017.
+Full text PDF: https://bjs.gov/content/pub/pdf/iscs16.pdf?utm_source=juststats&utm_medium=email&utm_content=iscs16_report_pdf&utm_campaign=iscs16&ed2f26df2d9c416fbddddd2330a778c6=avjojvjelj-avrjorlkt
+
+63. Musu-Gillette, Lauren; Zhang, Anlan; Wang, Ke; Zhang, Jizhi; Kemp,
+Jana; Diliberti, Melissa; Oudekerk, Barbara A., "Indicators of School Crime
+and Safety: 2017." NCJ 251413, Washington, DC: United States Department of
+Education, National Center for Education Statistics, Mar 2018.
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6206
+Full text PDF: https://www.bjs.gov/content/pub/pdf/iscs17.pdf
+
+64. National Academies of Sciences, Engineering, and Medicine, "Racial
+disparities in victimization, offending, and involvement with the criminal
+justice system." In Reducing Racial Inequality in Crime and Justice:
+Science, Practice, and Policy. 45 - 116, Washington, DC: National Academies
+Press,2023. DOI: 10.17226/26705
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6206
+Full text PDF: https://www.bjs.gov/content/pub/pdf/iscs17.pdf
+
+65. National Center for Victims of Crime, "School and Campus Crime." NCJ
+250828, 2014.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+66. Panter, Heather, "US transgender homicides (2013-2020): Exploring
+homicide characteristics and police disclosure during criminal
+investigations." In Panter, Heather; Dwyer, Angela, Transgender People and
+Criminal Justice: An Examination of Issues in Victimology, Policing,
+Sentencing, and Prisons. Critical Criminological Perspectives. 127 - 158,
+Cham, Switzerland: Palgrave Macmillan,2023. DOI: 10.1007/978-3-031-29893-
+6_6
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+67. Parkin, William S.; Bejan, Vladimir; Hickman, Matthew J., "Police,
+public and community violence: Exploring the relationships between use of
+deadly force, law enforcement killed, and homicide rates in the United
+States." Criminology, Criminal Justice, Law and Society. 2020, 21, (2), 1 -
+20.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+68. Reeping, Paul M.; Cerda, Magdalena; Kalesan, Bindu; Wiebe, Douglas J.;
+Galea, Sandro; Branas, Charles C., "State gun laws, gun ownership, and mass
+shootings in the US: Cross sectional time series." BMJ. 2019, 364, 1542.
+DOI: 10.1136/bmj.l542
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+69. Renner, Matthew L., "Using multiple flawed measures to construct valid
+and reliable rates of homicide by police." Homicide Studies. Feb 2019, 23,
+(1), 20 - 40. DOI: 10.1177/1088767918786756
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+70. Reynolds, Joshua J.; Burkner, Paul C., "Examining the relationship
+between weapon type and relationship type in American homicides: A Bayesian
+approach." Homicide Studies. in press 2021,. DOI: 10.1177/1088767920976191
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+71. Rosenfeld, Richard, "Studying crime trends: Normal science and
+exogenous shocks." Criminology. Feb 2018, 56, (1), 5 - 26. DOI:
+10.1111/1745-9125.12170
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+72. Rosenfeld, Richard; Fox, James A., "Anatomy of the homicide rise."
+Homicide Studies. Aug 2019, 23, (3), 202 - 224. DOI:
+10.1177/1088767919848821
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+73. Semenza, Daniel C.; Stansfield, Richard; Steidley, Trent; Mancik,
+Ashley M., "Firearm availability, homicide, and the context of structural
+disadvantage." Homicide Studies. May 2023, 27, (2), 208 - 228. DOI:
+10.1177/10887679211043806
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+74. Shermila, Mary; Bellarmine, Amrith B.; Santiago, Nirmala, "Crime data
+analysis and prediction of perpetrator identity using machine learning
+approach." Presented at the Proceeding of the 2nd International Conference
+on Trends in Electronics and Informatics, International Conference on
+Trends in Electronics and Informatics, Tirunelveli, India, May 11-12, 2018.
+DOI: 10.1109/ICOEI.2018.8553904
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273008
+Full text PDF: https://www.nationalpublicsafetypartnership.org/clearinghouse/Content/ResourceDocuments/School%20and%20Campus%20Crime%20-OVC%20Factsheet.pdf
+
+75. Siegel, Michael; Boine, Claire, "What Are the Most Effective Policies
+in Reducing Gun Homicides?." Policy Brief. Regional Gun Violence Research
+Consortium, Mar 29, 2019.
+Abstract: https://rockinst.org/issue-area/what-are-the-most-effective-policies-in-reducing-gun-homicides/
+Full text PDF: https://rockinst.org/wp-content/uploads/2019/03/3-28-19-Firearm-Laws-Homicide-Deaths-Brief.pdf
+
+76. Siegel, Michael; Xuan, Ziming; Ross, Craig S.; Galea, Sandro; Kalesan,
+Bindu; Fleegler, Eric; Goss, Kristin A., "Easiness of legal access to
+concealed firearm permits and homicide rates in the United States."
+American Journal of Public Health. Dec 2017, 107, (12), 1923 - 1929. DOI:
+10.2105/AJPH.2017.304057
+Abstract: https://rockinst.org/issue-area/what-are-the-most-effective-policies-in-reducing-gun-homicides/
+Full text PDF: https://rockinst.org/wp-content/uploads/2019/03/3-28-19-Firearm-Laws-Homicide-Deaths-Brief.pdf
+
+77. Sims, Kaitlyn M.; Wang, Yang; Wolfe, Barbara, "Estimating impacts of
+the US EITC program on domestic violence." Review of Economics of the
+Household. in press 2024,. DOI: 10.1007/s11150-024-09702-z
+Abstract: https://rockinst.org/issue-area/what-are-the-most-effective-policies-in-reducing-gun-homicides/
+Full text PDF: https://rockinst.org/wp-content/uploads/2019/03/3-28-19-Firearm-Laws-Homicide-Deaths-Brief.pdf
+
+78. Smart, Rosanna; Schell, Terry L., "Mass Shootings in the United
+States." Updated Apr 15, 2021, Accessed Oct 24, 2024.
+Full text: https://www.rand.org/research/gun-policy/analysis/essays/mass-shootings.html
+Full text PDF: https://static1.squarespace.com/static/5b7ea2794cde7a79e7c00582/t/634db41294e6cd7d9548df2a/1666036758624/mass+shootings+USA.pdf
+
+79. Spanbauer, Michael, "Differential Effects of Self-Defense Policy Across
+Race." Tulane Economics Working Paper Series. 1708, New Orleans, LA: Tulane
+University, Jul 2017.
+Full text PDF: http://econ.tulane.edu/RePEc/pdf/tul1708.pdf
+
+80. Spanbauer, Michael S., "Three Essays in Applied Microeconomics on the
+Topics of Crime, Pollution, and National Parks." Dissertation, Tulane
+University, 2018.
+Full text PDF: http://econ.tulane.edu/RePEc/pdf/tul1708.pdf
+
+81. Szalewski, Alec, "Family Mass Homicide: An Investigation."
+Dissertation, University of Central Florida, 2020.
+Abstract: https://stars.library.ucf.edu/etd2020/301
+
+82. Szalewski, Alec, "Female Offenders of Intimate Partner Homicide:
+Victim, Offender, and Case Characteristics." Masters Thesis, University of
+Central Florida, 2017.
+Abstract: http://stars.library.ucf.edu/etd/5555
+
+83. Szalewski, Alec; Huff-Corzine, Lin; Reckdenwald, Amy, "Trading places:
+Microlevel predictors of women who commit intimate partner homicide."
+Homicide Studies. Nov 2019, 23, (4), 344 - 361. DOI:
+10.1177/1088767919829514
+Abstract: http://stars.library.ucf.edu/etd/5555
+
+84. Tapp, Susannah N.; Thompson, Alexandra; Smith, Erica L.; Remrey,
+Lizabeth, "Crimes Involving Juveniles, 1993-2022." Statistical Brief. NCJ
+308554, Washington, DC: Bureau of Justice Statistics, Apr 2024.
+Abstract: https://bjs.ojp.gov/library/publications/crimes-involving-juveniles-1993-2022
+Full text PDF: https://bjs.ojp.gov/document/cij9322.pdf
+This statistical brief presents findings on crimes involving juveniles,
+both as victims and as alleged or perceived offenders. It includes (1)
+rates of nonfatal violent victimization by age, (2) the number of deaths of
+juveniles due to homicide, (3) the percentage of nonfatal violent incidents
+in which the offender was perceived to be a juvenile, and (4) the
+percentage of persons arrested who were juveniles. The data sources are
+BJS’s National Crime Victimization Survey, the FBI’s Supplementary Homicide
+Reports, and the FBI’s National Incident-Based Reporting System.
+.
+
+85. Terranova, Claudio; Zen, Margherita, "Women victims of intentional
+homicide in Italy: New insights comparing Italian trends to German and U.S.
+trends, 2008-2014." Journal of Forensic and Legal Medicine. Jan 2018, 53,
+73 - 78. DOI: 10.1016/j.jflm.2017.11.007
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29202317
+
+86. Tjaden, Samantha L.N.; Makin, David A., "Negotiated safety? Did
+Backpage.com reduce female homicide rates." Homicide Studies. in press
+2022,. DOI: 10.1177/10887679221078966
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29202317
+
+87. Vandegrift, Donald; Connor, Brian J., "The effect of police use of
+lethal force on murder levels in American cities before and after
+Ferguson." Journal of Quantitative Criminology. 2020, 36, 235 - 261. DOI:
+10.1007/s10940-019-09429-6
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29202317
+
+88. Violence Policy Center, "Firearm Justifiable Homicides and Non-Fatal
+Self-Defense Gun Use: An Analysis of Federal Bureau of Investigation and
+National Crime Victimization Survey Data." Washington, DC: Violence Policy
+Center, Jul 2019.
+Full text PDF: http://vpc.org/studies/justifiable19.pdf
+
+89. Vogel, Matt; Thompson, Kristina J.; Messner, Steven F., "The enduring
+influence of cohort characteristics on race-specific homicide rates."
+Social Forces. Sep 2020, 99, (1), 1 - 30. DOI: 10.1093/sf/soz127
+Full text PDF: http://vpc.org/studies/justifiable19.pdf
+
+90. Webster, Daniel W.; Donohue, John J., III, ; Klarevas, Louis; Crifasi,
+Cassandra K.; Vernick, Jon S.; Jernigan, David; Wilcox, Holly C.; Johnson,
+Sara B.; Greenberg, Sheldon; McGinty, Emma E., "Firearms on College
+Campuses: Research Evidence and Policy Implications." Working Paper.
+Baltimore, MD: Johns Hopkins University, Bloomberg School of Public Health,
+Center for Gun Policy and Research, Oct 2016.
+Full text PDF: http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-gun-policy-and-research/_pdfs/GunsOnCampus.pdf
+
+91. Webster, Daniel W.; McCourt, Alexander D.; Crifasi, Cassandra K.;
+Booty, Marisa D.; Stuart, Elizabeth A., "Evidence concerning the regulation
+of firearms design, sale, and carrying on fatal mass shootings in the
+United States." Criminology and Public Policy. Feb 2020, 19, (1), 171 -
+212. DOI: 10.1111/1745-9133.12487
+Full text PDF: http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-gun-policy-and-research/_pdfs/GunsOnCampus.pdf
+
+92. Williams, Howard E.; Bowman, Scott W.; Jung, Jordan T., "The
+limitations of government databases for analyzing fatal officer-involved
+shootings in the United States." Criminal Justice Policy Review. Mar 2019,
+30, (2), 201 - 222. DOI: 10.1177/0887403416650927
+Full text PDF: http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-gun-policy-and-research/_pdfs/GunsOnCampus.pdf
+
+93. Wong, Brooke; Bernstein, Serena; Jay, Jonathan; Siegel, Michael,
+"Differences in racial disparities in firearm homicide across cities: The
+role of racial residential segregation and gaps in structural
+disadvantage." Journal of the National Medical Association. Oct 2020, 112,
+(5), 518 - 530. DOI: 10.1016/j.jnma.2020.05.014
+Full text PDF: http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-gun-policy-and-research/_pdfs/GunsOnCampus.pdf
+
+94. Zhang, Miaoyin, "FinTech Lending in Consumer Credit Market During Risky
+Times: Evidence from the Marketplace Lending Platforms." Dissertation,
+University of Tennessee, 2022.
+Abstract: https://trace.tennessee.edu/utk_graddiss/7121
+
+95. Zimmerman, Gregory M.; Fridel, Emma E.; Sheppard, Keller G.; Lawshe,
+Nathaniel L., "Contextualizing fatal police-resident encounters with a
+focus on Hispanic or Latin American places: Does macro-level racial and
+ethnic composition distinguish resident fatalities by the police and police
+fatalities by residents?." Journal of Criminal Justice. Jan-Feb 2021, 72,.
+DOI: 10.1016/j.jcrimjus.2020.101749
+Abstract: https://trace.tennessee.edu/utk_graddiss/7121

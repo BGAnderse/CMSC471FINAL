@@ -1,0 +1,49 @@
+File Manifest for ICPSR 36393
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Supplementary Homicide Reports, 2014.
+ICPSR36393-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2016-03-03.
+http://doi.org/10.3886/ICPSR36393.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36393-descriptioncitation.pdf       -       -         -       2016-05-06  -
+
+    36393-related_literature.txt        -       -         -       daily       -
+
+    36393-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Supplementary Homicide
+Reports, 2014
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36393-0001-Codebook.pdf             -       -         -       2016-03-03  8608874c5b93315d8cd3af6a299c9085
+
+    36393-0001-Data.dta                 -       12,532    152     2016-03-03  e670c57d27e050d2cb4aab9965e19701
+
+    36393-0001-Data.rda                 -       12,532    152     2016-03-03  6d72aac8b4859a91a70edc05df3b27c6
+
+    36393-0001-Data.sav                 -       12,532    152     2016-03-03  96fd77d4b039ee820aebcbe300743c79
+
+    36393-0001-Data.stc                 -       12,532    152     2016-03-03  64907972ce620944931637730a78c0be
+
+    36393-0001-Data.tsv                 -       12,532    152     2016-03-03  b63ffa4914dcea8a59195f584ccb52fc
+
+    36393-0001-Data.txt                 270     12,532    152     2016-03-03  adc5f76e3ac3d5d913b3a3aafa345760
+
+    36393-0001-Setup.dct                -       -         -       2016-03-03  a17006142d1521c3879e50c11cf30983
+
+    36393-0001-Setup.do                 -       -         -       2016-03-03  3b66b609b0d9e204d656559b38211db2
+
+    36393-0001-Setup.sas                -       -         -       2016-03-03  20696f56e30d27ff792ee5a807eb4488
+
+    36393-0001-Setup.sps                -       -         -       2016-03-03  9df62ded98c6b594bb9444b37a08231c
+

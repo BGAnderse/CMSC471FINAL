@@ -1,0 +1,49 @@
+File Manifest for ICPSR 36124
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Supplementary Homicide Reports, 2013.
+ICPSR36124-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2015-04-24.
+http://doi.org/10.3886/ICPSR36124.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36124-descriptioncitation.pdf       -       -         -       2016-05-06  -
+
+    36124-related_literature.txt        -       -         -       daily       -
+
+    36124-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Supplementary Homicide
+Reports, 2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36124-0001-Codebook.pdf             -       -         -       2015-04-24  892ebd37792958be8f3a34c737dc4ca8
+
+    36124-0001-Data.dta                 -       12,546    152     2015-04-24  faeefb38faa19124f59ec087c341525a
+
+    36124-0001-Data.rda                 -       12,546    152     2015-04-24  968dab69538dd9fd808998612ea5287a
+
+    36124-0001-Data.sav                 -       12,546    152     2015-04-24  cb1920ddfd2ecdfe0544be9602d0f92d
+
+    36124-0001-Data.stc                 -       12,546    152     2015-04-24  0563c363328e6422f185e60788fbb106
+
+    36124-0001-Data.tsv                 -       12,546    152     2015-04-24  7c17857248d5d7d722ffb75181ed3db2
+
+    36124-0001-Data.txt                 270     12,546    152     2015-04-24  ad95e2f1774e1ad6b3eb560a6c984447
+
+    36124-0001-Setup.dct                -       -         -       2015-04-24  932def56dd250d532823644d70d9e802
+
+    36124-0001-Setup.do                 -       -         -       2015-04-24  124d18d9e056dc7b7577d495af49e830
+
+    36124-0001-Setup.sas                -       -         -       2015-04-24  5e417c2105fceda9f3ad49a75e964e48
+
+    36124-0001-Setup.sps                -       -         -       2015-04-24  50f62e6e7f8d15a0f4762e97208fc674
+

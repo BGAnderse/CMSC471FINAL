@@ -1,0 +1,49 @@
+File Manifest for ICPSR 37064
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Supplementary Homicide Reports, United States, 2016.
+ICPSR37064-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2018-06-28.
+http://doi.org/10.3886/ICPSR37064.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37064-descriptioncitation.pdf       -       -         -       2018-06-28  -
+
+    37064-related_literature.txt        -       -         -       daily       -
+
+    37064-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Supplementary Homicide
+Reports, United States, 2016
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37064-0001-Codebook.pdf             -       -         -       2018-06-28  f8200d221b4daed2211997571f974b73
+
+    37064-0001-Data.dta                 -       15,331    152     2018-06-28  785659bab0d60ef504e7aa7a3ee67423
+
+    37064-0001-Data.rda                 -       15,331    152     2018-06-28  4d814cd766fef591f97738d9c2a2ff71
+
+    37064-0001-Data.sav                 -       15,331    152     2018-06-28  8aad6ee8fc5c9736edeacc28eefd9d86
+
+    37064-0001-Data.stc                 -       15,331    152     2018-06-28  c1299c6ee0f2fd3632ff1eca5a109b9a
+
+    37064-0001-Data.tsv                 -       15,331    152     2018-06-28  eced69ee03a2bb498f98a597362554a8
+
+    37064-0001-Data.txt                 270     15,331    152     2018-06-28  155846be88aabdeeb946f7e8116886c7
+
+    37064-0001-Setup.dct                -       -         -       2018-06-28  41c2d3815f249af2eae5efd206346ed7
+
+    37064-0001-Setup.do                 -       -         -       2018-06-28  27aa48e8f19c7e43ecbd01b2b3c5ce1f
+
+    37064-0001-Setup.sas                -       -         -       2018-06-28  79ff7f2731e02eb1c6812e9ab2ee17d2
+
+    37064-0001-Setup.sps                -       -         -       2018-06-28  6d425476d1e11d709da22ec98563baa4
+
