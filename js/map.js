@@ -354,7 +354,7 @@ const zoom = d3.zoom()
   .on("zoom", zoomed);
 
 const svg = d3.create("svg")
-  .attr("viewBox", [0, 250, width, height])
+  .attr("viewBox", [-500, 250, width, height])
   .attr("width", width)
   .attr("height", height)
   .attr("style", "max-width: 100%; height: auto;")
