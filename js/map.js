@@ -354,7 +354,7 @@ let height = getResponsiveHeight();
 // Remove previous projection/path declarations
 let projection = d3.geoAlbersUsa()
   .scale(width * 0.6)
-  .translate([width / 2, height/1.5]);
+  .translate([width / 2, height/2]);
 let path = d3.geoPath().projection(projection);
 
 window.addEventListener('resize', () => {
@@ -385,7 +385,7 @@ const zoom = d3.zoom()
 
 const svg = d3.create("svg")
   .attr("viewBox", [0, 0, width, height])
-  .attr("style", "display: block; margin: 0 auto; position: absolute; top: 0; left: 0; transform: none; width: 100vw; height: 100vh; max-width: 100vw; max-height: 100vh; z-index: 0;")
+  .attr("style", "display: block; margin: 0 auto; position: absolute; top: 80px; left: 0; transform: none; width: 100vw; height: calc(100vh - 80px); max-width: 100vw; max-height: calc(100vh - 80px); z-index: 0;")
   .on("click", reset);
 
 // Insert SVG as the first child of <body> to ensure it is behind all UI controls
