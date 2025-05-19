@@ -339,10 +339,14 @@ console.log("map.js is running!");
 // =================== Global Variables ===================
 // Responsive width/height for map SVG
 function getResponsiveWidth() {
-  return window.innerWidth;
+  // Get the width of the main content or body, fallback to window width
+  const el = document.documentElement || document.body;
+  return el.clientWidth || window.innerWidth;
 }
 function getResponsiveHeight() {
-  return window.innerHeight;
+  // Get the height of the main content or body, fallback to window height
+  const el = document.documentElement || document.body;
+  return el.clientHeight || window.innerHeight;
 }
 let width = getResponsiveWidth();
 let height = getResponsiveHeight();
@@ -381,8 +385,6 @@ const zoom = d3.zoom()
 
 const svg = d3.create("svg")
   .attr("viewBox", [0, 0, width, height])
-  .attr("width", width)
-  .attr("height", height)
   .attr("style", "max-width: 100%; height: auto;")
   .on("click", reset);
 
