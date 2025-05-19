@@ -1,0 +1,23 @@
+Link: https://bganderse.github.io/CMSC471FINAL/
+
+Benjamin Andersen-Taylor - Map Website, Coded map, Managed Github Repo
+
+Alexa Suazo - Found and Cleaned data, generated summary stats, wrote reports.
+
+Process:
+
+1. Project Planning: Defining the objectives and scope of the project, creating an interactive map.
+
+2. Frontend Development: Designing and implementing the user interface using HTML for structure, CSS for styling, and JavaScript for interactivity.
+
+3. Data Integration: Incorporating external data, in CSV format, to populate with relevant information.
+
+4. Testing and Debugging: Ensuring the application functions correctly across different browsers and devices, and fixing any issues that arise.
+
+5. Documentation: Providing clear documentation to explain the projects purpose, usage, and any relevant details.
+
+6. Deployment: Making the application accessible online, possibly through GitHub Pages or another hosting service.
+
+Data: FBI’s Uniform Crime Reporting (UCR) Program’s Homicide Data, particularly the Supplementary Homicide Reports (SHR) from 2013-2016.
+This dataset contains detailed incident-level records on homicides reported across the United States, including information on the location
+(state and county), weapon used, circumstances, and demographic details of both victims and offenders.
