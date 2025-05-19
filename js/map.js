@@ -607,7 +607,7 @@ if (window.location.hostname === "localhost" || window.location.hostname === "12
   // On GitHub Pages or remote: use raw GitHub URL
   dataUrl = "https://raw.githubusercontent.com/BGAnderse/CMSC471FINAL/main/data/Final_Data_GeoData.csv";
 }
-fetch("data/final_data_geodata.csv")
+fetch(dataUrl)
   .then(response => response.text())
   .then(data => {
     const rows = d3.csvParse(data);
