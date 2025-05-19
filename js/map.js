@@ -342,7 +342,7 @@ function getResponsiveWidth() {
   return window.innerWidth;
 }
 function getResponsiveHeight() {
-  return window.innerHeight
+  return window.innerHeight;
 }
 let width = getResponsiveWidth();
 let height = getResponsiveHeight();
@@ -388,7 +388,7 @@ const svg = d3.create("svg")
   .on("click", reset);
 
 // Center the SVG horizontally and vertically in the page
-svg.attr("style", "display: block; margin: 0 auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 100%; max-height: 100%;");
+svg.attr("style", "display: block; margin: 0 auto; position: absolute; top: 0; left: 0; transform: none; width: 100vw; height: 100vh; max-width: 100vw; max-height: 100vh; z-index: 1;");
 
 const g = svg.append("g");
 
