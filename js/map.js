@@ -385,11 +385,16 @@ const zoom = d3.zoom()
 
 const svg = d3.create("svg")
   .attr("viewBox", [0, 0, width, height])
-  .attr("style", "max-width: 100%; height: auto;")
+  .attr("style", "display: block; margin: 0 auto; position: absolute; top: 0; left: 0; transform: none; width: 100vw; height: 100vh; max-width: 100vw; max-height: 100vh; z-index: 0;")
   .on("click", reset);
 
-// Center the SVG horizontally and vertically in the page
-svg.attr("style", "display: block; margin: 0 auto; position: absolute; top: 0; left: 0; transform: none; width: 100vw; height: 100vh; max-width: 100vw; max-height: 100vh; z-index: 1;");
+// Insert SVG as the first child of <body> to ensure it is behind all UI controls
+const body = document.body;
+if (body.firstChild) {
+  body.insertBefore(svg.node(), body.firstChild);
+} else {
+  body.appendChild(svg.node());
+}
 
 const g = svg.append("g");
 
@@ -605,7 +610,7 @@ if (window.location.hostname === "localhost" || window.location.hostname === "12
   dataUrl = "data/final_data_geodata.csv";
 } else {
   // On GitHub Pages or remote: use raw GitHub URL
-  dataUrl = "https://raw.githubusercontent.com/BGAnderse/CMSC471FINAL/main/data/Final_Data_GeoData.csv";
+  dataUrl = "https://raw.githubusercontent.com/BGAnderse/CMSC471FINAL/blob/main/data/Final_Data_GeoData.csv";
 }
 fetch(dataUrl)
   .then(response => response.text())

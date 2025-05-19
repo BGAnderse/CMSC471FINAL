@@ -304,7 +304,17 @@
     border-radius: 0.3rem;
   }
 
- 
+  #timeSelector, #buttonContainer, #playButton, #pauseButton, #resetButton {
+    position: relative;
+    z-index: 201;
+  }
+  /* Ensure play/pause/reset buttons are always above the map */
+  #playButton, #pauseButton, #resetButton {
+    z-index: 202;
+  }
+  /* Ensure tooltip is above everything */
+  .tooltip {
+    z-index: 300;
   }
   </style>
 </head>
