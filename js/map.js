@@ -131,7 +131,7 @@ function updateLegend(variable) {
       .style("display", "flex")
       .style("align-items", "center")
       .style("margin-bottom", "10px")
-      .style("font-size", "35px")
+      .style("font-size", "25px")
       .html(`
         <div style="width: 30px; height: 30px; background: red; margin-right: 10px;"></div>
         <div>Incident Count (height represents count)</div>
