@@ -356,7 +356,6 @@ let path = d3.geoPath().projection(projection);
 window.addEventListener('resize', () => {
   width = getResponsiveWidth();
   height = getResponsiveHeight();
-  svg.attr("width", width).attr("height", height);
   svg.attr("viewBox", [0, 0, width, height]);
   projection = d3.geoAlbersUsa()
     .scale(width * 0.6)
