@@ -604,14 +604,8 @@ if (resetButton) {
 // =================== Map Setup ===================
 let aggregatedData = [];
 let allData = [];
-let dataUrl;
-if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") {
-  // Local development: use local file path
-  dataUrl = "data/final_data_geodata.csv";
-} else {
-  // On GitHub Pages or remote: use raw GitHub URL
-  dataUrl = "https://raw.githubusercontent.com/BGAnderse/CMSC471FINAL/blob/main/data/Final_Data_GeoData.csv";
-}
+let dataUrl  = "main/data/final_data_geodata.csv";
+
 fetch(dataUrl)
   .then(response => response.text())
   .then(data => {
