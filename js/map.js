@@ -339,19 +339,29 @@ console.log("map.js is running!");
 // =================== Global Variables ===================
 // Responsive width/height for map SVG
 function getResponsiveWidth() {
-  return Math.min(window.innerWidth * 0.95, 1200);
+  return window.innerWidth;
 }
 function getResponsiveHeight() {
-  return Math.min(window.innerHeight * 0.7, 700);
+  return window.innerHeight
 }
 let width = getResponsiveWidth();
 let height = getResponsiveHeight();
+
+// Remove previous projection/path declarations
+let projection = d3.geoAlbersUsa()
+  .scale(width * 0.6)
+  .translate([width / 2, height / 2]);
+let path = d3.geoPath().projection(projection);
+
 window.addEventListener('resize', () => {
   width = getResponsiveWidth();
   height = getResponsiveHeight();
   svg.attr("width", width).attr("height", height);
-  svg.attr("viewBox", [-500, 250, width, height]);
-  projection.scale(width * 0.8).translate([width / 2, height / 2]);
+  svg.attr("viewBox", [0, 0, width, height]);
+  projection = d3.geoAlbersUsa()
+    .scale(width * 0.6)
+    .translate([width / 2, height / 2]);
+  path = d3.geoPath().projection(projection);
   updateSpikePositions();
 });
 
@@ -371,11 +381,14 @@ const zoom = d3.zoom()
   .on("zoom", zoomed);
 
 const svg = d3.create("svg")
-  .attr("viewBox", [-500, 250, width, height])
+  .attr("viewBox", [0, 0, width, height])
   .attr("width", width)
   .attr("height", height)
   .attr("style", "max-width: 100%; height: auto;")
   .on("click", reset);
+
+// Center the SVG horizontally and vertically in the page
+svg.attr("style", "display: block; margin: 0 auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 100vw; max-height: 100vh;");
 
 const g = svg.append("g");
 
@@ -472,7 +485,8 @@ function updateSingleSpike(spike, data) {
   const height = incidentScale(data.incident_count || 1);
   const yShifted = y-height;
   const xShifted = x;
-  const spikeWidth = Math.max(6, width * 0.008); // Responsive spike width
+  // Make spikes skinnier by reducing the multiplier
+  const spikeWidth = Math.max(2, width * 0.003); // Skinnier spikes
   
   spike.attr("d", 
     `M${xShifted},${yShifted} L${xShifted - spikeWidth},${yShifted + height} L${xShifted + spikeWidth},${yShifted + height} Z`
@@ -582,8 +596,6 @@ if (resetButton) {
 }
 
 // =================== Map Setup ===================
-const projection = d3.geoAlbersUsa().scale(width * 0.8).translate([width / 2, height / 2]);
-const path = d3.geoPath().projection(projection);
 let aggregatedData = [];
 let allData = [];
 
