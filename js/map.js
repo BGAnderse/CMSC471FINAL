@@ -20,7 +20,7 @@ const sexColor = d3.scaleOrdinal()
 
 const raceColor = d3.scaleOrdinal()
   .domain(["W", "B", "A", "I", "U"])
-  .range(["white", "black", "yellow", "brown", "pruple"]);
+  .range(["white", "black", "yellow", "brown", "purple"]);
 
 // Age bins and color scale
 const ageBins = [
