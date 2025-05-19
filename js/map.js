@@ -354,7 +354,7 @@ let height = getResponsiveHeight();
 // Remove previous projection/path declarations
 let projection = d3.geoAlbersUsa()
   .scale(width * 0.6)
-  .translate([width / 2, height / 2]);
+  .translate([width / 2, height/1.5]);
 let path = d3.geoPath().projection(projection);
 
 window.addEventListener('resize', () => {
@@ -604,7 +604,7 @@ if (resetButton) {
 // =================== Map Setup ===================
 let aggregatedData = [];
 let allData = [];
-let dataUrl  = "data/Final_Data_GeoData.csv";
+let dataUrl = "data/Final_Data_GeoData.csv";
 
 fetch(dataUrl)
   .then(response => response.text())
