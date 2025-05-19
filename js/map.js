@@ -388,7 +388,7 @@ const svg = d3.create("svg")
   .on("click", reset);
 
 // Center the SVG horizontally and vertically in the page
-svg.attr("style", "display: block; margin: 0 auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 100vw; max-height: 100vh;");
+svg.attr("style", "display: block; margin: 0 auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 100%; max-height: 100%;");
 
 const g = svg.append("g");
 
