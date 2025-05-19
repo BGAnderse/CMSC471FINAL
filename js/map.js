@@ -604,7 +604,7 @@ if (resetButton) {
 // =================== Map Setup ===================
 let aggregatedData = [];
 let allData = [];
-let dataUrl  = "main/data/final_data_geodata.csv";
+let dataUrl  = "https://bganderse.github.io/CMSC471FINAL/data/Final_Data_GeoData.csv";
 
 fetch(dataUrl)
   .then(response => response.text())
