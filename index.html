@@ -128,6 +128,7 @@
     border-radius: 0.45rem;
     transition: transform 0.2s, border-color 0.2s;
     margin-top: 0;
+    z-index: 200;
   }
   #playButton:hover {
     transform: scale(1.12);
@@ -147,6 +148,7 @@
     padding: 0;
     transition: transform 0.2s;
     position: relative;
+    z-index: 200;
   }
   #pauseButton::before, #pauseButton::after {
     content: "";
@@ -187,7 +189,7 @@
   /* Sidebar */
   #sidebarLeft {
     position: fixed;
-    top: 30%;
+    top: 25%;
     left: 1.5rem;
     width: 18rem;
     height: 22rem;
@@ -303,8 +305,6 @@
     border-radius: 0.3rem;
   }
 
- 
-  }
   </style>
 </head>
 <body>
